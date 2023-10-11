@@ -1,4 +1,4 @@
-# Marketplace Demo  
+# Marketplace Demo
 
 https://marketplace-demo-nu.vercel.app/
 
@@ -11,6 +11,8 @@ https://marketplace-demo-nu.vercel.app/
 - [TypeScript](https://www.typescriptlang.org)
 - [Framer Motion](https://www.framer.com/motion)
 - [React Hook Form](https://react-hook-form.com) + [Yup](https://github.com/jquense/yup) for form validation
+- [Supabase](https://supabase.com/) for database
+- [Vercel](https://vercel.com/) for hosting + serverless functions
 
 ---
 
