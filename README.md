@@ -1,6 +1,7 @@
 # Marketplace Demo
 
-https://marketplace-demo-nu.vercel.app/
+[https://marketplace-demo-nu.vercel.app/
+](https://marketplace.emre.earth/)
 
 ## Tech stack
 
